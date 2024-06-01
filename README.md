@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Platform&Tools
-<img alt="Static Badge" src="https://img.shields.io/badge/Windows-11-blue?logo=windows&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwindows%2Fget-windows-11"> <img alt="Static Badge" src="https://img.shields.io/badge/IDEA-Vscode-blue?logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Windows-11-blue?logo=windows&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwindows%2Fget-windows-11"> <img alt="Static Badge" src="https://img.shields.io/badge/IDEA-Vscode-blue?logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com%2F"> <img alt="Static Badge" src="https://img.shields.io/badge/Browser-Edge-blue?logo=microsoftedge&link=https%3A%2F%2Fwww.microsoft.com%2Fzh-cn%2Fedge%2Fdownload%3Fform%3DMA13FJ">
+
 
 
 
