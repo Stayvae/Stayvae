@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### Platform&Tools
 <img alt="Static Badge" src="https://img.shields.io/badge/Windows-11-blue?logo=windows&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwindows%2Fget-windows-11">
+<img alt="Static Badge" src="https://img.shields.io/badge/IDE-Vscode-blue?logo=visualstudiocode&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwindows%2Fget-windows-11">
+
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stayvae)
